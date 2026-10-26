@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Random Film</string>
+    <string name="next">Show film</string>
+    <string name="reset">Reset</string>
+    <string name="press_button">Press the button to get a film</string>
+    <string name="no_more">No more films. Press Reset to start over.</string>
+
+    <string-array name="movies">
+        <item>The Shawshank Redemption</item>
+        <item>The Godfather</item>
+        <item>Pulp Fiction</item>
+        <item>Forrest Gump</item>
+        <item>Inception</item>
+        <item>The Matrix</item>
+        <item>Interstellar</item>
+        <item>Fight Club</item>
+    </string-array>
+</resources>

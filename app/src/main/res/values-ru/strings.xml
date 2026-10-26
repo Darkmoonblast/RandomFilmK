@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Случайный фильм</string>
+    <string name="next">Показать фильм</string>
+    <string name="reset">Сброс</string>
+    <string name="press_button">Нажмите кнопку, чтобы получить фильм</string>
+    <string name="no_more">Фильмов больше нет. Нажмите «Сброс», чтобы начать сначала.</string>
+
+    <string-array name="movies">
+        <item>Побег из Шоушенка</item>
+        <item>Крёстный отец</item>
+        <item>Криминальное чтиво</item>
+        <item>Форрест Гамп</item>
+        <item>Начало</item>
+        <item>Матрица</item>
+        <item>Интерстеллар</item>
+        <item>Бойцовский клуб</item>
+    </string-array>
+</resources>
